@@ -20,3 +20,11 @@ nav ul li {
     position: relative ;
     color: white;
 
+.image {
+    position: relative ;
+    }
+    h2{
+        position: absolute ;
+        top: 200px;
+        left:0px;
+    }
