@@ -25,4 +25,12 @@ nav ul li {
     top: 8px;
     left: 16px;
 }
-
+.container {
+    position: relative ;
+    color: white;
+}
+.middle {
+    position: absolute;
+    top:8px;
+    left:16px;
+}
