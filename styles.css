@@ -25,4 +25,8 @@ nav ul li {
     top: 8px;
     left: 16px;
 
-    
+    .centered {
+        position: absolute;
+        top: 16px;
+        left: 8px;
+        transform: translate(-16,-16);
