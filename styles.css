@@ -1,3 +1,27 @@
-nav ul {
-  background-color: blue;
-  {
+body {
+    background-color:white  ;
+}
+nav ul{
+    background-color:lightblue ;
+    
+    text-align: end;
+}
+nav ul li {
+    list-style-type: none;
+}
+nav ul li {
+    list-style-type: none;
+    display: inline;
+    margin-left: 50px;
+    margin-right: 50px;
+}
+
+.container {
+    position: relative ;
+    color: white;
+}
+.top-left {
+    position: absolute;
+    top: 8px;
+    left: 16px;
+}
