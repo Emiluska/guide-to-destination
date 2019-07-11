@@ -10,8 +10,9 @@ nav ul{
 nav ul li {
     list-style-type: none;
     display: inline;
-    margin-left: 50px;
-    margin-right: 50px;
+    margin-left: 200x;
+    margin-right: 200px;
+    font-size: 25px;
 }
 
 .container {
@@ -47,3 +48,4 @@ nav ul li {
     background-size: cover;
     
 }
+
