@@ -17,13 +17,38 @@ nav ul li {
 }
 
 .container {
-    position: relative ;
     color: white;
+    width: 100%;
+    position: relative;
 }
 
 .top-left {
     position: absolute;
     top: 8px;
     left: 16px;
+}  
+
+.row {
+    padding-top: 10px;
+    display: flex;
+    align-items: center;
+    flex-wrap: wrap;
 }
 
+.col-md-6 {
+    padding-left: 5px;
+    padding-right: 5px;
+}
+.centered {
+    position: absolute;
+    top: 360px;
+
+}
+.jumbotron {
+    background-image: url("images/seoulatnight.html");
+    background-size: cover;
+    
+}
+
+.top {
+}
